@@ -19,3 +19,4 @@ else {
     console.log(num + " is not divisible by 5");
 }
 let score=prompt("Enter your score:");
+let grade;
