@@ -20,3 +20,5 @@ else {
 }
 let score=prompt("Enter your score:");
 let grade;
+if(score>=90&& score<=100){
+    grade='A';
