@@ -26,3 +26,6 @@ if(score>=90&& score<=100){
 else if(score>=70 && score<=89){
     grade='B';
 }
+else if(score>=60 && score<=69){
+    grade='C';
+}
