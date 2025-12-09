@@ -29,3 +29,5 @@ else if(score>=70 && score<=89){
 else if(score>=60 && score<=69){
     grade='C';
 }
+else if(score>=50 && score<=59){
+    grade='D';
