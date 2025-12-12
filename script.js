@@ -32,3 +32,6 @@ else if(score>=60 && score<=69){
 else if(score>=50 && score<=59){
     grade='D';
 }
+else if(score>=0 && score<=49){
+    grade='F';
+}
