@@ -51,3 +51,4 @@ else if(score>=0 && score<=49){
 }
  console.log("The grade is: " + grade);
 let items =[250,645,300,900,50];
+ let i=0;
