@@ -56,4 +56,5 @@ let items =[250,645,300,900,50];
     console.log(`value at index ${i} =${val}`);
  let offer =val/10;
          items[i]-=offer;
+         console.log(`value after offer=${items[i]}`);
      
