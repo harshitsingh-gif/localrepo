@@ -57,4 +57,4 @@ console.log(`value at index ${i} =${val}`);
  let offer =val/10;
   items[i]-=offer;
  console.log(`value after offer=${items[i]}`);
- i++;
+   i++;
