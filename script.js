@@ -59,3 +59,4 @@ console.log(`value at index ${i} =${val}`);
  console.log(`value after offer=${items[i]}`);
    i++;
       }
+let arr = ["pune", "mumbai", "bangalore", "chennai"];
