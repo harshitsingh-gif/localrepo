@@ -58,3 +58,4 @@ console.log(`value at index ${i} =${val}`);
   items[i]-=offer;
  console.log(`value after offer=${items[i]}`);
    i++;
+      }
