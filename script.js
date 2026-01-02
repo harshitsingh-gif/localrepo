@@ -61,3 +61,6 @@ console.log(`value at index ${i} =${val}`);
       }
 let arr = ["pune", "mumbai", "bangalore", "chennai"];
 arr.forEach((val, index, arr)=>{
+    });
+
+let arr=[10,25,30,45,60];
