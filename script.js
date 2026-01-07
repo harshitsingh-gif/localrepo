@@ -68,6 +68,8 @@ arr.forEach((arr)=>{
     console.log(arr*arr);
 });
  let arr = [5, 10, 15, 20, 25];
-
-let newArr = arr.filter((val)
+ let newArr = arr.filter((val)=>{
+   return val%2===0;
+ });
+ console.log(newArr)
 
