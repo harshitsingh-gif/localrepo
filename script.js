@@ -72,4 +72,7 @@ arr.forEach((arr)=>{
    return val%2===0;
  });
  console.log(newArr)
+let marks= [5, 10, 15, 20, 25];
+
+let toppers = marks.filter((val)
 
