@@ -74,5 +74,5 @@ arr.forEach((arr)=>{
  console.log(newArr)
 let marks= [5, 10, 15, 20, 25];
 
-let toppers = marks.filter((val)
+let toppers = marks.filter((val)=>{
 
