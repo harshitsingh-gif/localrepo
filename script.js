@@ -77,3 +77,4 @@ let marks= [5, 10, 15, 20, 25];
 let toppers = marks.filter((val)=>{
     return val>=16;
     });
+console.log(toppers);
