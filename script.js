@@ -78,3 +78,4 @@ let toppers = marks.filter((val)=>{
     return val>=16;
     });
 console.log(toppers);
+// let n = prompt("Enter a number:");
