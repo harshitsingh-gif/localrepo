@@ -79,3 +79,4 @@ let toppers = marks.filter((val)=>{
     });
 console.log(toppers);
  let n = prompt("Enter a number:");
+let arr = [];
