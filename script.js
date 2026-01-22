@@ -81,4 +81,4 @@ console.log(toppers);
  let n = prompt("Enter a number:");
 let arr = [];
 
-for (let i = 1; i <= n; i++)
+for (let i = 1; i <= n; i++) {
