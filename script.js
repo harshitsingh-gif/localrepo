@@ -64,6 +64,7 @@ arr.forEach((val, index, arr)=>{
     });
 
 let arr=[10,25,30,45,60];
+
 arr.forEach((arr)=>{
     console.log(arr*arr);
 });
