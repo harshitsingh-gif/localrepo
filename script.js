@@ -100,4 +100,4 @@ let sum =arr.reduce((res,curr) ={
 });
 console.log("Sum =", sum);
 
-    
+    let factorial 
