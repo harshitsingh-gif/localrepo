@@ -24,8 +24,11 @@ else {
 }
 
 let score=prompt("Enter your score:");
+
 let grade;
+
 if(score>=90&& score<=100){
+    
     grade='A';
     } 
 else if(score>=70 && score<=89){
@@ -57,6 +60,7 @@ else if(score>=0 && score<=49){
 }
  console.log("The grade is: " + grade);
 let items =[250,645,300,900,50];
+
  let i=0;
  for(let val of items){
 console.log(`value at index ${i} =${val}`);
