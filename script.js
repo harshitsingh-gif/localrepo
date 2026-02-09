@@ -70,6 +70,7 @@ console.log(`value at index ${i} =${val}`);
    i++;
       }
 let arr = ["pune", "mumbai", "bangalore", "chennai"];
+
 arr.forEach((val, index, arr)=>{
     });
 
@@ -79,6 +80,8 @@ arr.forEach((arr)=>{
     console.log(arr*arr);
 });
  let arr = [5, 10, 15, 20, 25];
+
+
  let newArr = arr.filter((val)=>{
    return val%2===0;
  });
